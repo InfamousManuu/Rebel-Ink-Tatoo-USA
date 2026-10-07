@@ -1,0 +1,17 @@
+[
+  {
+    "id": "365d26d2-0be3-4b86-ac0e-9701081b0f16",
+    "name": "Rebel Ink Administrator",
+    "phone": "",
+    "country": "United States",
+    "state": "",
+    "email": "admin@rebelink.com",
+    "password_hash": "0c95b15a6d2c9b69d6b27c054dd59fd8:947d652a1ea9273b7a3dd6cf7508e69c2d7a75a48d2bbfb22416b32bdbad536cd01359e24bfaf11d8849478f1d706aa92654dda0e4ae9df217e771d0c2384497",
+    "role": "admin",
+    "status": "approved",
+    "admin_notes": "",
+    "created_at": "2026-10-07T09:06:58.714Z",
+    "updated_at": "2026-10-07T09:06:59.564Z",
+    "last_login_at": "2026-10-07T09:06:59.564Z"
+  }
+]

@@ -1,0 +1,23 @@
+REBEL INK — PRIVATE ADMIN INSTRUCTIONS (for you only)
+=====================================================
+
+Do NOT post these on the website or in public GitHub README.
+
+Admin login page:  your-site.onrender.com  →  click "Admin"
+
+Email:    admin@rebelink.com
+Password: Admin123#
+
+After deploy:
+1. Open the site
+2. Click Admin
+3. Sign in with the email and password above
+4. Approve members, manage appointments
+
+Security tips:
+- Change this password later if the repo is public
+- Do not share these credentials
+- The website never displays them
+
+If data is wiped after a redeploy, the default admin is recreated
+automatically on the next start (same email/password).
